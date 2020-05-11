@@ -4,8 +4,17 @@ body{
 #container {
     max-width: 1400px;
     margin: auto;
+    margin-top: 5px;
 }
 #my-canvas {
     background: #000;
     border: 1px solid #fff;
+}
+#title {
+    color: red;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 28px;
+    margin-bottom: 0px;
+
 }
